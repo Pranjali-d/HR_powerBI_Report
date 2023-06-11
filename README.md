@@ -34,4 +34,4 @@ This project focuses on  HR Attiration and their associated metrics  , performin
 4. Interviews can be conducted with employees who have low job satisfaction levels to analyze the reasons. Then, improvement efforts should be made to address their concerns.
 
 ## Resource
- You can access all stages from designing background to calculation details of the prepared report [here](https://github.com/Pranjali-d/HR_powerBI_Report/blob/main/Resources).
+ You can access all stages from designing background to calculation details of the prepared report [here](https://github.com/Pranjali-d/HR_powerBI_Report/blob/main/Resource.md).

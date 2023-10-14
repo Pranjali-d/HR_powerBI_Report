@@ -32,12 +32,16 @@ This project focuses on  HR Attiration and their associated metrics  , performin
 9. When we rate the performance of employees as high or low, what are the ratios?
 10. What is the total number and distribution of employees, promotions, and dismissals in occupational roles?
 11. Who are the employees who will be promoted or fired?
+    
+</br>
 
 
 ## Data Collection :
   The data was downloaded from Kaggle, containing two tables — HR Analytics Data (consisting 1470 rows and 35 columns) and HR Employee Data (with 1470 rows and 2 columns). The various columns of the datasets are outlined below:
 
 ![image](https://github.com/Pranjali-d/HR_powerBI_Report/assets/49934575/271e7fa8-f7bc-4dff-ac3a-5fa8b113c243)
+
+</br>
 
 ## Data Cleaning and Transformation :
 The both datasets were imported to power query in Power BI. Data cleaning and transformation are an important aspect in data analysis process as it ensures accuracy and credibility of the insights generated from the data.
@@ -74,6 +78,8 @@ The both datasets were imported to power query in Power BI. Data cleaning and tr
 ![image](https://github.com/Pranjali-d/HR_powerBI_Report/assets/49934575/c23f2abb-6d88-4294-b937-fef1b82145f6)
 
 At the end of this process, the HR Analytics Data table contain same 44 columns and HR Employees Data remain the same. Now the data is ready for exploratory analysis.
+
+</br>
 
 ## Exploratory Data Analysis and Visualization:
 First of all, I determined a color palette suitable for the design I was considering with the coolors.co tool.
@@ -125,6 +131,7 @@ Finally, when we click on the action page.
 
 With the HR Employees Data join we have performed, we can list and display the names of employees who will be promoted or dismissed as a result.
 
+</br>
 
 ## Insights:
 1. 1470 employees, 72 of whom have not been promoted for 10 years or more, need to be promoted.
@@ -146,7 +153,5 @@ With the HR Employees Data join we have performed, we can list and display the n
 
 </br>
 
-You can browse the github repository to access the dashboard and backgrounds.
-
 ## Resource
- You can access all stages from designing background to calculation details of the prepared report [here](https://github.com/Pranjali-d/HR_powerBI_Report/blob/main/Resource.md).
+ You can browse the github repository to access the dashboard and backgrounds [here](https://github.com/Pranjali-d/HR_powerBI_Report/blob/main/Resource.md).
